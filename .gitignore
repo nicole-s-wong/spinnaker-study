@@ -11,3 +11,4 @@ tools/terraform/.terraform/
 .classpath
 .project
 .settings/
+*.png
