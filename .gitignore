@@ -11,4 +11,9 @@ tools/terraform/.terraform/
 .classpath
 .project
 .settings/
+<<<<<<< HEAD
+*.jpeg
+=======
 *.png
+
+>>>>>>> 7bd90914add43190e0d1f8a6c3c35a8b25ad8b3a
